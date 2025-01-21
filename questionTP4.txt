@@ -1,0 +1,11 @@
+1)Quel pays a fourni l plus grand nombre d'artistes ?
+
+L'Espagne
+
+3)Quel type de spectacle génère le revenu moyen le plus élevé ?
+
+L'exposition génère le plus de revenu avec 61 entrée et un prix moyen de 81.237 par billet.
+
+2)Quelle est méthode de paiement est la plus utilisée ?
+
+La méthode de paiement la plus utilisé est le cash avec 51 tickets acheté de cette manière.
